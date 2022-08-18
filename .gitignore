@@ -1,6 +1,0 @@
-*
-!.gitignore
-!grade.php
-!launch_result.php
-!*source/submission/*
-!*/backup/*
