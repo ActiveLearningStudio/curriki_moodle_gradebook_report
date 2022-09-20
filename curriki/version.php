@@ -10,5 +10,5 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->version   = 2022081500;        // The current plugin version (Date: YYYYMMDDXX).
-$plugin->requires  = 2022041200;        // Requires this Moodle version.
+$plugin->requires  = 2020061515;        // Requires this Moodle version.
 $plugin->component = 'gradereport_curriki'; // Full name of the plugin (used for diagnostics)
